@@ -105,7 +105,7 @@
 .population-container {
 
     margin: 70px 150px;
-    
+
     width: 80%;
     height: 700px;
 
@@ -134,7 +134,7 @@
 
 /*choose item*/
 .chose-title {
-    
+
     padding: 15px 300px;
     width: 500px;
     margin: 0 auto;
@@ -146,7 +146,7 @@
 }
 
 .chose-title p {
-    
+
     width: 600px;
     justify-content: center;
 }
@@ -172,11 +172,11 @@
 }
 
 .img-two {
-    display:flex;
+    display: flex;
     gap: 50px;
-  
+
     width: 1050px;
-    
+
 
 }
 
@@ -184,13 +184,13 @@
     width: 500px;
     height: 240px;
 
-    
+
 }
 
 .img-second {
     width: 500px;
     height: 240px;
-  
+
 
 }
 
@@ -219,7 +219,7 @@
 
     display: flex;
     gap: 20px;
-    width:1050px;
+    width: 1050px;
 
 }
 
@@ -228,13 +228,13 @@
     height: 220px;
     width: 500px;
 
-    
+
 }
 
 .img-seven {
     height: 220px;
     width: 600px;
-   
+
 
 }
 
@@ -264,7 +264,7 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
 
-   
+
 
 }
 
@@ -274,7 +274,7 @@
     width: 480px;
     border-radius: 10px;
     height: 300px;
-  
+
 }
 
 .why-choose-section-content-1 i {
@@ -293,10 +293,11 @@
     border-radius: 10px;
     height: 300px;
 }
+
 .why-choose-section-content-2 i {
     width: 92px;
     height: 30%;
-  
+
     font-size: 90px;
     padding: 5px 10px;
 }
@@ -308,13 +309,13 @@
     border-radius: 10px;
     height: 300px;
     margin: 0 200px;
-    
+
 }
 
 .why-choose-section-content-3 i {
     width: 92px;
     height: 30%;
-   
+
     font-size: 90px;
     padding: 5px 10px;
 }
@@ -332,7 +333,7 @@
     height: 500px;
     display: flex;
     justify-content: space-between;
-    
+
 }
 
 .new-sletter-container input {
@@ -343,13 +344,13 @@
     width: 300px;
     font-size: 35px;
     background-color: tomato;
-    
+
 }
 
 .new-sletter-information {
 
     padding: 15px 50px;
-    
+
     border-radius: 5px;
     width: 500px;
 }
@@ -405,7 +406,7 @@
 .footer-item {
 
     width: 1100px;
-   
+
     background-color: darkgray;
     padding: 10px 200px;
     justify-content: center;
@@ -435,12 +436,12 @@
 
 .fotter-description {
     width: 1200px;
-    
+
     padding-left: 90px;
 }
 
 .icon-item i {
-    
+
     width: 150px;
     margin: 0 20px;
     padding: 0 30px;
@@ -449,7 +450,7 @@
 
 .icon-item {
     justify-content: space-around;
-    
+
     margin: 0 auto;
     padding-left: 60px;
 
